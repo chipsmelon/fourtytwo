@@ -1,6 +1,6 @@
 # FourtyTwo
 
-This was an old bot I made and the code isn't the best, you can tell by the "present e !" comments I've added before uploading this to github.
+This was an old Discord bot I made and the code isn't the best, you can tell by the "present e !" comments I've added before uploading this to github.
 
 ## Hosting the Bot
 
